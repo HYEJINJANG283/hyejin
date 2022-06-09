@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+span.text01{
+	font-size: 50px;
+	color: #ffffff;
+	font-family: Arial;
+
+}
+input.type01{
+	
+	border: 1px solid #fffff0;
+	background-color:#ffffff;
+	width:220px;
+	padding:5px;
+	font-family:Arial;
+	font-size:20px;
+	
+	
+}
+
+input.button01{
+	
+	border:2px solid #ffffff;
+	background-color: #888888;
+	width :180px;
+	height:40px;
+	font-size:15px;
+	padding:5px;
+	font-weight:bold;
+	color:#ffffff;
+	font-family:malgun;
+	
+}
+
+
+#textarea01{
+	border:2px solid #ffffff;
+	background-color: #888888;
+	width :180px;
+	height:40px;
+	font-size:15px;
+	padding:5px;
+	font-weight:bold;
+	color:#ffffff;
+	font-family:malgun;
+	
+	
+	
+}

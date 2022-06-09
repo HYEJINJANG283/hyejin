@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body{
+	
+	margin:0;
+	padding:0;
+	
+}
+
+
+td.menu01{
+	
+	font-size: 20px;
+	color:white;
+	font-family: Arial;
+}
+td.menu02{
+	
+	font-size: 16px;
+	color:white;
+	font-family: Arial;
+}
